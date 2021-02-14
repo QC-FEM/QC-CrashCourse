@@ -1,5 +1,7 @@
 # Quantum Computing Crash Course de QC-FEM
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/QCFEM/QC-CrashCourse/master)
+
 Bienvenido al curso rápido de computación cuántica realizado por QC-FEM. Con este curso aprenderás las ideas básicas detrás del desarrollo de algoritmos capaces de correr en procesadores cuánticos. En particular descubrirás:
 
 1. Qué es la computación reversible y el modelo de cómputo basado en circuitos
