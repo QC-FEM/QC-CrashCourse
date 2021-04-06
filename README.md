@@ -14,7 +14,7 @@ Bienvenido al curso rápido de computación cuántica realizado por QC-FEM. Con 
 
 - [x] Lección 2.1: Postulados de la mecánica cuántica
 - [x] Lección 2.2: Qubits en la esfera de Bloch
-- [] Lección 2.3: Sistemas de varios qubits
+- [ ] Lección 2.3: Sistemas de varios qubits
 
 ### Lección 3: Diseño de circuitos
 
