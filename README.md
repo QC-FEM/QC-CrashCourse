@@ -18,9 +18,9 @@ Bienvenido al curso rápido de computación cuántica realizado por QC-FEM. Con 
 
 ### Lección 3: Diseño de circuitos
 
-- [ ] Ejemplo práctico 3.1: Medición de desigualdades tipo Bell
-- [ ] Ejemplo práctico 3.2: Compuertas controladas
-- [ ] Ejemplo práctico 3.3: Manejo de la medición
+- [ ] Ejemplo práctico 3.1: Compuertas controladas
+- [ ] Ejemplo práctico 3.2: Manejo de la medición
+- [ ] Ejemplo práctico 3.3: Medición de desigualdades tipo Bell
 
 ### Lección 4: Protocolos cuánticos
 
