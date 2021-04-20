@@ -14,11 +14,11 @@ Bienvenido al curso rápido de computación cuántica realizado por QC-FEM. Con 
 
 - [x] Lección 2.1: Postulados de la mecánica cuántica
 - [x] Lección 2.2: Qubits en la esfera de Bloch
-- [ ] Lección 2.3: Sistemas de varios qubits
+- [X] Lección 2.3: Sistemas de varios qubits
 
 ### Lección 3: Diseño de circuitos
 
-- [ ] Ejemplo práctico 3.1: Máquina copiadora
+- [ ] Ejemplo práctico 3.1: Medición de desigualdades tipo Bell
 - [ ] Ejemplo práctico 3.2: Compuertas controladas
 - [ ] Ejemplo práctico 3.3: Manejo de la medición
 
